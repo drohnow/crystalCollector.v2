@@ -1,0 +1,125 @@
+/*body {
+	background-image: url("../images/background_img.jpg");
+}*/
+
+
+
+.divCCBanner {
+	width: 12%;
+	height: 50px;
+	background-color: #cc7a00;
+	text-align: center;
+	margin: 5px;
+}
+
+.divCCBanner h1 {
+	line-height: 180%;
+	color: #e6e6e6;
+	font-size: 24px;
+}
+
+.divDirections {
+	width: 27%;
+	height: 350px;
+	background-color: #ffecb3;
+	margin: 5px;
+	color: #009933
+}
+
+.divDirections p {
+	font-size: 16px;
+	margin-left: 10px;
+	margin-right: 10px
+}
+
+.divRandTarget {
+	width: 15%;
+	height: 100px;
+	background-color: #66cc66;
+	margin: 5px;
+	color: Black;
+	float: left;
+}
+
+.divRandTarget h1 {
+	font-size: 36px;
+	margin: 5px;
+}
+
+.divScoreBoard {
+	width: 5%;
+	height: 100px;
+	background-color: #1affff;
+	margin: 5px;
+	color: #009933;
+	float: left;
+	text-align: center;
+}
+
+.divScoreBoard h2 {
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+
+
+.divImgContainer {
+	width: 450px;
+	height: 110px;
+	clear: left;
+	
+}
+
+
+.divImgContainer img {
+	width: 100px;
+	height: 100px;
+	clear: left;
+	margin: 5px;
+}
+
+
+
+.divScoreReport {
+	width: 15%;
+	height: 35px;
+	background-color: #009999;
+	margin: 5px;
+	color: White;
+}
+
+.divScoreReport h1 {
+	margin: 5px;
+	color: White;
+	line-height: 33px;
+	font-size: 18px;
+}
+
+.divPlayerBoard {
+	width: 15%;
+	height: 100px;
+	background-color: #009999;
+	margin: 5px;
+	color: White;
+}
+
+.divPlayerBoard  h1 {
+	font-size: 36px;
+	margin: 5px;
+}
+
+.david {
+	color: Purple;
+	font-size: 10px;
+}
+
+#RandTargetID {
+	color: Red;
+}
+
+
+
+
+
+
+
