@@ -16,14 +16,14 @@
 
 .divDirections {
 	width: 27%;
-	height: 350px;
+	height: 400px;
 	background-color: #ffecb3;
 	margin: 5px;
 	color: #009933
 }
 
 .divDirections p {
-	font-size: 16px;
+	font-size: 18px;
 	margin-left: 10px;
 	margin-right: 10px
 }
@@ -52,7 +52,7 @@
 	text-align: center;
 }
 
-.divScoreBoard h2 {
+.divScoreBoard p {
 	margin-top: 20px;
 	font-size: 18px;
 }

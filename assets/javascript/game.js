@@ -15,10 +15,10 @@ $(".divCCBanner").html("<h1>CrystalsCollector!</h1>");
 var divDirections = document.createElement("div");
 $(divDirections).attr("class", "divDirections");
 $('body').append(divDirections);
-$(".divDirections").append("<br><p>You will be given a random number at the start of the game.</p>");
-$(".divDirections").append("<p>There are four crystals below.  By clicking on a crystal you add a specific amount of points to your total score.</p>");
-$(".divDirections").append("<p>You will win the game by matching your total score to the random number.  You lose the game if your total score goes above the random number.");
-$(".divDirections").append("<p>The value of each crystal is hidden from you until you click on it.</p>");
+$(".divDirections").append("<br><p>You will be given a random number at the start of the game.</p><br>");
+$(".divDirections").append("<p>There are four crystals below.  By clicking on a crystal you add a specific amount of points to your total score.</p><br>");
+$(".divDirections").append("<p>You will win the game by matching your total score to the random number.  You lose the game if your total score goes above the random number</p><br>.");
+$(".divDirections").append("<p>The value of each crystal is hidden from you until you click on it.</p><br>");
 $(".divDirections").append("<p>Each time the game starts, the game will change the value of each crystal.</p>");
 
 //Create RandowTarget Div and h1 tag//
